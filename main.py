@@ -3,7 +3,7 @@ import sqlite3
 import os
 from FDataBase import FDataBase
 
-# конфигурация
+# конфигураци
 DATABASE = '/tmp/main.db'
 DEBUG = True
 SECRET_KEY = '1234567'
